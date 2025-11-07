@@ -9,4 +9,5 @@
 
 # Pakku
 build/
+!.pakku/**/*
 !pakku.jar
