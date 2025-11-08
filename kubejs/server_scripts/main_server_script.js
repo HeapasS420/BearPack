@@ -3,7 +3,7 @@
 
 ServerEvents.recipes(event => {
   registerActuallyAdditionsRecipes(event)
-  registerBearPackRecipes(event)
+  registerBearCraftRecipes(event)
   registerExtendedAE2Recipes(event)
   registerSilentGemsRecipes(event)
 })

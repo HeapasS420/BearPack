@@ -1,7 +1,7 @@
 // priority: 0
 "use strict";
 
-function registerBearPackItems(event) {
+function registerBearCraftItems(event) {
 
   // Bear Coins made by @mcdraws on discord
   global.COIN_TYPES.forEach(type => {

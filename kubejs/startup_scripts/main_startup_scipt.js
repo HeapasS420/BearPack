@@ -2,7 +2,7 @@
 "use strict";
 
 StartupEvents.registry('item', event => {
-  registerBearPackItems(event)
+  registerBearCraftItems(event)
   registerExtendedAEItems(event)
 })
 

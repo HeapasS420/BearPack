@@ -1,6 +1,6 @@
 "use strict";
 
-function registerBearPackRecipes(event) {
+function registerBearCraftRecipes(event) {
 
   event.shapeless("5x kubejs:copper_coin", "kubejs:silver_coin")
   event.shapeless("kubejs:silver_coin", [
